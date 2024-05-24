@@ -329,7 +329,7 @@
                                         {
                                          "name":"playAudio",
                                          "type":"string",
-                                         "value":".\/sound.mp3"
+                                         "value":".\/public\/sound.mp3"
                                         }],
                                  "rotation":0,
                                  "type":"area",
