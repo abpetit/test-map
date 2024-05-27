@@ -1136,19 +1136,6 @@
          "tilecount":270,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":2,
-         "firstgid":3628,
-         "image":"images\/kaliop.png",
-         "imageheight":64,
-         "imagewidth":64,
-         "margin":0,
-         "name":"kaliop",
-         "spacing":0,
-         "tilecount":4,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
