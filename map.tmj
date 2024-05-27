@@ -648,7 +648,7 @@
                          "name":"object-chat-zone",
                          "objects":[
                                 {
-                                 "height":278.195,
+                                 "height":277.528333333333,
                                  "id":37,
                                  "name":"Chat_SalleReunion3",
                                  "properties":[
@@ -665,9 +665,9 @@
                                  "rotation":0,
                                  "type":"area",
                                  "visible":true,
-                                 "width":383.436,
-                                 "x":864.448666666667,
-                                 "y":32.23583333333
+                                 "width":382.102666666667,
+                                 "x":865.115333333334,
+                                 "y":32.9024999999966
                                 }],
                          "opacity":1,
                          "type":"objectgroup",
@@ -683,7 +683,7 @@
                                 {
                                  "height":28.5,
                                  "id":56,
-                                 "name":"board-Excalidraw",
+                                 "name":"excalidraw-meeting-room-3",
                                  "properties":[
                                         {
                                          "name":"openWebsite",
@@ -691,11 +691,11 @@
                                          "value":"https:\/\/draw.kaliop.io\/work-adventure-meeting-room3#room=f44d3ded283bad3ff7a7,iM1ZujzQnBxC73qQuJfSuw"
                                         }],
                                  "rotation":0,
-                                 "type":"",
+                                 "type":"area",
                                  "visible":true,
                                  "width":87,
                                  "x":1012.01515151515,
-                                 "y":34.1363636363636
+                                 "y":33.1363636363636
                                 }],
                          "opacity":1,
                          "type":"objectgroup",
@@ -754,7 +754,7 @@
                                 {
                                  "height":29.125,
                                  "id":78,
-                                 "name":"",
+                                 "name":"excalidraw-meeting-room-2",
                                  "properties":[
                                         {
                                          "name":"openWebsite",
@@ -762,7 +762,7 @@
                                          "value":"https:\/\/draw.kaliop.io\/work-adventure-meeting-room2#room=e0cee4627f700277a988,4OQmB3R4rV-TJdBW3_5lug"
                                         }],
                                  "rotation":0,
-                                 "type":"",
+                                 "type":"area",
                                  "visible":true,
                                  "width":89,
                                  "x":596,
@@ -879,7 +879,7 @@
                                 }],
                          "opacity":1,
                          "type":"objectgroup",
-                         "visible":true,
+                         "visible":false,
                          "x":0,
                          "y":0
                         }, 
@@ -891,7 +891,7 @@
                                 {
                                  "height":29.25,
                                  "id":79,
-                                 "name":"",
+                                 "name":"excalidraw-meeting-room-1",
                                  "properties":[
                                         {
                                          "name":"openWebsite",
@@ -899,7 +899,7 @@
                                          "value":"https:\/\/draw.kaliop.io\/work-adventure-meeting-room1#room=47549a0ff6be3f9977d1,xSECjrIKxRGtQOR5FFW7AA"
                                         }],
                                  "rotation":0,
-                                 "type":"",
+                                 "type":"area",
                                  "visible":true,
                                  "width":89.125,
                                  "x":180,
@@ -1134,6 +1134,19 @@
          "name":"WA_Tables",
          "spacing":0,
          "tilecount":270,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":2,
+         "firstgid":3628,
+         "image":"images\/kaliop.png",
+         "imageheight":64,
+         "imagewidth":64,
+         "margin":0,
+         "name":"kaliop",
+         "spacing":0,
+         "tilecount":4,
          "tileheight":32,
          "tilewidth":32
         }],
