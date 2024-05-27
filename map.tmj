@@ -715,39 +715,6 @@
                  "layers":[
                         {
                          "draworder":"topdown",
-                         "id":99,
-                         "name":"object-chat-zone",
-                         "objects":[
-                                {
-                                 "height":278.195,
-                                 "id":35,
-                                 "name":"Chat_SalleReunion2",
-                                 "properties":[
-                                        {
-                                         "name":"chatDescription",
-                                         "type":"string",
-                                         "value":"Chat d\u00e9di\u00e9 pour la salle de r\u00e9union 2"
-                                        }, 
-                                        {
-                                         "name":"chatName",
-                                         "type":"string",
-                                         "value":"SalleReunion2"
-                                        }],
-                                 "rotation":0,
-                                 "type":"area",
-                                 "visible":true,
-                                 "width":436.102666666666,
-                                 "x":416.357757575758,
-                                 "y":31.7509848484816
-                                }],
-                         "opacity":1,
-                         "type":"objectgroup",
-                         "visible":true,
-                         "x":0,
-                         "y":0
-                        }, 
-                        {
-                         "draworder":"topdown",
                          "id":120,
                          "name":"object-board",
                          "objects":[
@@ -768,6 +735,17 @@
                                  "x":596,
                                  "y":34
                                 }],
+                         "opacity":1,
+                         "type":"objectgroup",
+                         "visible":true,
+                         "x":0,
+                         "y":0
+                        }, 
+                        {
+                         "draworder":"topdown",
+                         "id":99,
+                         "name":"object-chat-zone",
+                         "objects":[],
                          "opacity":1,
                          "type":"objectgroup",
                          "visible":true,
@@ -1134,19 +1112,6 @@
          "name":"WA_Tables",
          "spacing":0,
          "tilecount":270,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":2,
-         "firstgid":3628,
-         "image":"images\/kaliop.png",
-         "imageheight":64,
-         "imagewidth":64,
-         "margin":0,
-         "name":"kaliop",
-         "spacing":0,
-         "tilecount":4,
          "tileheight":32,
          "tilewidth":32
         }],
