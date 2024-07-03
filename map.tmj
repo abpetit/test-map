@@ -385,7 +385,7 @@
                             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
                          "height":40,
                          "id":135,
-                         "name":"tile-stage-board-break-room",
+                         "name":"tile-stage-board-rest-room",
                          "opacity":1,
                          "properties":[
                                 {
@@ -728,6 +728,25 @@
                          "width":608.052,
                          "x":1279.474,
                          "y":417.83335
+                        }, 
+                        {
+                         "height":28.3333,
+                         "id":98,
+                         "name":"",
+                         "rotation":0,
+                         "text":
+                            {
+                             "color":"#ffffff",
+                             "halign":"center",
+                             "text":"Salle de pause",
+                             "valign":"center",
+                             "wrap":true
+                            },
+                         "type":"",
+                         "visible":true,
+                         "width":508.052,
+                         "x":2.47399999999999,
+                         "y":1023.83335
                         }],
                  "opacity":1,
                  "type":"objectgroup",
@@ -860,13 +879,13 @@
                                  "rotation":0,
                                  "type":"area",
                                  "visible":true,
-                                 "width":1276.76933333333,
+                                 "width":509.76933333333,
                                  "x":0.782,
                                  "y":1054.23583333333
                                 }],
                          "opacity":1,
                          "type":"objectgroup",
-                         "visible":false,
+                         "visible":true,
                          "x":0,
                          "y":0
                         }],
@@ -1057,7 +1076,7 @@
          "y":0
         }],
  "nextlayerid":136,
- "nextobjectid":98,
+ "nextobjectid":99,
  "orientation":"orthogonal",
  "properties":[
         {
