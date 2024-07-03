@@ -210,7 +210,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"https:\/\/draw.kaliop.io\/work-adventure-meeting-room1#room=47549a0ff6be3f9977d1,xSECjrIKxRGtQOR5FFW7AA"
+                                 "value":"https:\/\/excalidraw.com\/work-adventure-meeting-room1#room=47549a0ff6be3f9977d1,xSECjrIKxRGtQOR5FFW7AA"
                                 }, 
                                 {
                                  "name":"openWebsiteTrigger",
@@ -272,7 +272,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"https:\/\/draw.kaliop.io\/work-adventure-meeting-room2#room=30f76de77a3c9759e096,TobR-81znJA3IWKkHbx8lA"
+                                 "value":"https:\/\/excalidraw.com\/work-adventure-meeting-room2#room=30f76de77a3c9759e096,TobR-81znJA3IWKkHbx8lA"
                                 }, 
                                 {
                                  "name":"openWebsiteTrigger",
@@ -334,7 +334,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"https:\/\/excalidraw.com\/work-adventure-meeting-room3#room=6d194ebb0053636a7abe,imFYkC8lUski4-8iNJ5U0A"
+                                 "value":"https:\/\/excalidraw.com\/work-adventure-meeting-room3#room=8daa83742a6edbde42b0,ew2z64cQtwHx1R0IyP4G2g"
                                 }, 
                                 {
                                  "name":"openWebsiteTrigger",
@@ -396,7 +396,7 @@
                                 {
                                  "name":"openWebsite",
                                  "type":"string",
-                                 "value":"https:\/\/draw.kaliop.io\/work-adventure-rest-room#room=4f09774b737a515021b3,8bxIO000Wpd6tKkF55Su0g"
+                                 "value":"https:\/\/excalidraw.com\/work-adventure-rest-room#room=d97a81d0f54c2e2cbc68,yCqFIWhIORbNtcQsUs_XVg"
                                 }, 
                                 {
                                  "name":"openWebsiteTrigger",
@@ -884,7 +884,7 @@
                                         {
                                          "name":"chatName",
                                          "type":"string",
-                                         "value":"Chat_SalleRepos"
+                                         "value":"SalleRepos"
                                         }],
                                  "rotation":0,
                                  "type":"area",
