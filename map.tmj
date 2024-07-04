@@ -48,7 +48,7 @@
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
                  "height":40,
                  "id":73,
-                 "name":"tile-start",
+                 "name":"start",
                  "opacity":1,
                  "type":"tilelayer",
                  "visible":true,
@@ -99,7 +99,7 @@
                     2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2],
                  "height":40,
                  "id":72,
-                 "name":"tile-collisions",
+                 "name":"collisions",
                  "opacity":1,
                  "type":"tilelayer",
                  "visible":true,
@@ -110,6 +110,17 @@
                 {
                  "id":115,
                  "layers":[
+                        {
+                         "draworder":"topdown",
+                         "id":136,
+                         "name":"floorLayer",
+                         "objects":[],
+                         "opacity":1,
+                         "type":"objectgroup",
+                         "visible":true,
+                         "x":0,
+                         "y":0
+                        }, 
                         {
                          "data":[3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3,
                             3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3,
@@ -399,6 +410,11 @@
                                  "value":"https:\/\/excalidraw.com\/work-adventure-rest-room#room=d97a81d0f54c2e2cbc68,yCqFIWhIORbNtcQsUs_XVg"
                                 }, 
                                 {
+                                 "name":"openWebsitePolicy",
+                                 "type":"string",
+                                 "value":"wss:\/\/oss-collab.excalidraw.com"
+                                }, 
+                                {
                                  "name":"openWebsiteTrigger",
                                  "type":"string",
                                  "value":"onaction"
@@ -660,9 +676,9 @@
                             },
                          "type":"",
                          "visible":true,
-                         "width":381.052083333333,
-                         "x":28.1406249999999,
-                         "y":0.83333333333336
+                         "width":174.385416666666,
+                         "x":140.140625,
+                         "y":2.16666666666669
                         }, 
                         {
                          "height":28.3333,
@@ -678,9 +694,9 @@
                             },
                          "type":"",
                          "visible":true,
-                         "width":392.718333333333,
-                         "x":858.140833333333,
-                         "y":3.16668333333334
+                         "width":167.385,
+                         "x":972.8075,
+                         "y":1.83335000000001
                         }, 
                         {
                          "height":28.3333,
@@ -697,9 +713,9 @@
                             },
                          "type":"",
                          "visible":true,
-                         "width":450.385,
-                         "x":409.474166666667,
-                         "y":4.50001666666667
+                         "width":190.385,
+                         "x":556.140833333333,
+                         "y":-0.833316666666662
                         }, 
                         {
                          "height":28.3333,
@@ -716,9 +732,9 @@
                             },
                          "type":"",
                          "visible":true,
-                         "width":605.052,
-                         "x":3.47399999999993,
-                         "y":1024.50001666667
+                         "width":170.385333333333,
+                         "x":0.807333333333266,
+                         "y":792.50001666667
                         }, 
                         {
                          "height":28.3333,
@@ -735,9 +751,9 @@
                             },
                          "type":"",
                          "visible":true,
-                         "width":608.052,
-                         "x":1279.474,
-                         "y":417.83335
+                         "width":206.718666666667,
+                         "x":1278.14066666667,
+                         "y":612.500016666667
                         }, 
                         {
                          "height":28.3333,
@@ -754,9 +770,9 @@
                             },
                          "type":"",
                          "visible":true,
-                         "width":508.052,
-                         "x":2.47399999999999,
-                         "y":1023.83335
+                         "width":176.052,
+                         "x":174.474,
+                         "y":1025.16668333333
                         }],
                  "opacity":1,
                  "type":"objectgroup",
@@ -1085,8 +1101,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":136,
- "nextobjectid":99,
+ "nextlayerid":137,
+ "nextobjectid":100,
  "orientation":"orthogonal",
  "properties":[
         {
