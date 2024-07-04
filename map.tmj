@@ -105,17 +105,6 @@
          "y":0
         }, 
         {
-         "draworder":"topdown",
-         "id":136,
-         "name":"floorLayer",
-         "objects":[],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
          "id":75,
          "layers":[
                 {
@@ -1097,6 +1086,17 @@
          "name":"outside",
          "opacity":1,
          "type":"group",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":136,
+         "name":"floorLayer",
+         "objects":[],
+         "opacity":1,
+         "type":"objectgroup",
          "visible":true,
          "x":0,
          "y":0
